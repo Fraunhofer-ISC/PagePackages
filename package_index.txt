@@ -1,2 +1,3 @@
 https://raw.githubusercontent.com/Fraunhofer-ISC/de.fraunhofer.isc.osl.base/main/packages.json
+https://raw.githubusercontent.com/Fraunhofer-ISC/de.fraunhofer.isc.osl.lab/main/packages.json
 https://raw.githubusercontent.com/Fraunhofer-ISC/world.opensemantic.meta.legal/fhg-isc/packages.json
